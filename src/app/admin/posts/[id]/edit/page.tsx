@@ -1,5 +1,5 @@
 const Page = () => {
-  return <>/</>;
+  return <>admin posts id edit</>;
 };
 
 export default Page;
